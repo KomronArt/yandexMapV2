@@ -22,15 +22,14 @@ npm run build
 *  _this project was a training project and was a task from Megafon._
 *  *The map is still in beta-version ~~and maybe in the future we will finalize it~~.*
 *  ___demo___: 
-![demo-picture](./src/assets/demo.jpg)
+![demo-picture](./src/assets/demo.jpg) 
 
 
 2. ### What features does our project have
-```
-You can use our map and search some adress, that you want to find.
-```
+> You can use our map and search some adress, that you want to find.
+
 
 
 3. ### What  tools we used to develop the map
-* The map is work with Yandex maps api.
-* and writen on _Vue js_.
+* The map is work with Yandex maps api (vue-yandex-maps). 
+* and writen on _Vue 3_. 
